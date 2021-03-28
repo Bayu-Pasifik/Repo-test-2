@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1>Hello world</h1>
+    <ul>
+        <li>
+            nama : Ruse 
+            nim : 222164
+        </li>
+    </ul>
 </body>
 </html>
